@@ -28,9 +28,27 @@ Presidential_Approval_Rating_Prediction/ <br>
 │   ├── approval_rating_truman_1.csv <br>
 │   ├── approval_rating_trump_1.csv <br>
 │   ├── median_household_income.csv <br>
+│   ├── median_household_income_daily_change.csv <br>
 │   ├── real_GDP_per_capita.csv <br>
+│   ├── real_GDP_per_capita_daily_change.csv <br>
 │   ├── sp500_historical_data.csv <br>
+│   ├── sp500_historical_data_daily_change.csv <br>
 │   ├── unemployment_rate.csv <br>
+│   ├── approval_rating_biden_1_updated.csv <br>
+│   ├── approval_rating_bushjr_1_2_updated.csv <br>
+│   ├── approval_rating_bushsr_1_updated.csv <br>
+│   ├── approval_rating_carter_1_updated.csv <br>
+│   ├── approval_rating_clinton_1_2_updated.csv <br>
+│   ├── approval_rating_eisenhower_1_2_updated.csv <br>
+│   ├── approval_rating_ford_1_updated.csv <br>
+│   ├── approval_rating_johnson_1_2_updated.csv <br>
+│   ├── approval_rating_kennedy_1_updated.csv <br>
+│   ├── approval_rating_nixon_1_2_updated.csv <br>
+│   ├── approval_rating_obama_1_2_updated.csv <br>
+│   ├── approval_rating_reagan_1_2_updated.csv <br>
+│   ├── approval_rating_roosevelt_3_4_updated.csv <br>
+│   ├── approval_rating_truman_1_updated.csv <br>
+│   ├── approval_rating_trump_1_updated.csv <br>
 ├── OUTPUT/ <br>
 ├── LICENSE.md <br>
 ├── README.md <br>
