@@ -59,10 +59,12 @@ Presidential_Approval_Rating_Prediction/ <br>
 
 ## Reproduction Instructions
 
-Step 1: Download data from the American Presidency Project. Save as a tsv or csv file.
-Step 2: Download real GDP per capita, unemployement rate, and median household income from the federal reserves' dataset
-Step 3: Run script 1_get_stock_data.ipynb to get the S&P500 historical dataset.
-Step 4: Run 1.5_add_candidate_column to add the candidate column to each dataset.
-Step 5: Run 2_preliminary_data_analysis.ipynb to to get daily change versions of each of the economic datasets. In addition, it will output preliminary data anlysis
-Step 6: Run 2.5_more_prelim_analysis_joint_approval_ratings.ipynb to output graph of candidate approval rating over time
-Step 7: Run 3_linear_regression.ipynb to get 
+Step 1: Download data from the American Presidency Project. Save as a tsv or csv file.  <br>
+Step 2: Download real GDP per capita, unemployement rate, and median household income from the federal reserves' dataset  <br>
+Step 3: Run script 1_get_stock_data.ipynb to get the S&P500 historical dataset.  <br>
+Step 4: Run 1.5_add_candidate_column to add the candidate column to each dataset.  <br>
+NOTE: Steps 1-4 can be skipped by forking the repository and using the existing data files. <br>
+Step 5: Run 2_preliminary_data_analysis.ipynb to to get daily change versions of each of the economic datasets. In addition, it will output preliminary data anlysis  <br>
+Step 6: Run 2.5_more_prelim_analysis_joint_approval_ratings.ipynb to output graph of candidate approval rating over time  <br>
+Step 7: Run 3_linear_regression.ipynb to get outputs of preliminary linear regression model for comparing different variables. <br>
+Step 8: Run 4_time_series_analysis.ipynb to get the final time series results and view the outcome. <br>
