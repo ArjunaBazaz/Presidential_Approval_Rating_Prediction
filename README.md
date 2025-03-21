@@ -55,6 +55,10 @@ Presidential_Approval_Rating_Prediction/ <br>
 │   ├── approval_rating_trump_1_updated.csv <br>
 │   ├── approval_rating.csv <br>
 ├── OUTPUT/ <br>
+│   ├── Residuals.png <br>
+│   ├── Prophet.png <br>
+│   ├── ARIMA.png <br>
+│   ├── ACF_Residuals.png <br>
 ├── LICENSE.md <br>
 ├── README.md <br>
 ├── data_appendix.pdf <br>
