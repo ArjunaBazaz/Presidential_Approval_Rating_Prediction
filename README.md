@@ -14,7 +14,7 @@ Presidential_Approval_Rating_Prediction/ <br>
 │   ├── 2_preliminary_data_analysis.ipynb <br>
 │   ├── 2.5_more_prelim_analysis_joint_approval_ratings.ipynb <br>
 │   ├── 3_linear_regression.ipynb <br>
-│   ├── 4_time_series_analysis.ipynb <br>
+│   ├── 3_analysis_part_two_time_series_analysis.ipynb <br>
 ├── DATA/ <br>
 │   ├── approval_rating_biden_1.csv <br>
 │   ├── approval_rating_bushjr_1_2.csv <br>
@@ -59,6 +59,9 @@ Presidential_Approval_Rating_Prediction/ <br>
 │   ├── Prophet.png <br>
 │   ├── ARIMA.png <br>
 │   ├── ACF_Residuals.png <br>
+│   ├── approval_rating_and_sp500_time_series.png <br>
+│   ├── sp500_compared_to_appproval_rating.png <br>
+│   ├── visualization_of_ARDL.png <br>
 ├── LICENSE.md <br>
 ├── README.md <br>
 ├── data_appendix.pdf <br>
